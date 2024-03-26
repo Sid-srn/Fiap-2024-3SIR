@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c88aec5-9c77-4a36-af69-127a049b7438" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Checkpoint/ListaComprasShared/app/src/main/java/com/example/listacomprasshares/ItemCompra.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Checkpoint/ListaComprasShared/app/src/main/java/com/example/listacomprasshares/ListaComprasAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Checkpoint/ListaComprasShared/app/src/main/res/drawable/car_icon.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Checkpoint/ListaComprasShared/app/src/main/res/drawable/delete_icon.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Checkpoint/ListaComprasShared/app/src/main/res/layout/item_compra_view.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula/MVVM - RetrofitSample/.idea/deploymentTargetDropDown.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula/MVVM - RetrofitSample/.idea/deploymentTargetDropDown.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula/[1-8] NaviagtionFragment/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula/[1-8] NaviagtionFragment/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula/[1-8] NaviagtionFragment/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula/[1-8] NaviagtionFragment/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Checkpoint/Recycler_Series/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Checkpoint/Recycler_Series/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Checkpoint/Recycler_Series/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Checkpoint/Recycler_Series/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Checkpoint/[1-3] Quiz/.gradle/8.0/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Checkpoint/[1-3] Quiz/.gradle/8.0/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Checkpoint/[1-3] Quiz/.gradle/8.0/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../Checkpoint/[1-3] Quiz/.gradle/8.0/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Checkpoint/[1-3] Quiz/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../Checkpoint/[1-3] Quiz/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Checkpoint/[1-3] Quiz/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Checkpoint/[1-3] Quiz/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Checkpoint/[1-3] Quiz/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Checkpoint/[1-3] Quiz/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Checkpoint/[1-3] Quiz/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Checkpoint/[1-3] Quiz/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Checkpoint/[2-3] Cp3ApiCep/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Checkpoint/[2-3] Cp3ApiCep/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Checkpoint/[2-3] Cp3ApiCep/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Checkpoint/[2-3] Cp3ApiCep/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Checkpoint/[2-3] Cp3ApiCep/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Checkpoint/[2-3] Cp3ApiCep/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Checkpoint/[2-3] Cp3ApiCep/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Checkpoint/[2-3] Cp3ApiCep/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Checkpoint/[2-3] Cp3ApiCep/app/src/main/java/br/com/fiap/cp3apicep/AdressDetail.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Checkpoint/[2-3] Cp3ApiCep/app/src/main/java/br/com/fiap/cp3apicep/AdressDetail.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Checkpoint/[2-3] Cp3ApiCep/app/src/main/java/br/com/fiap/cp3apicep/IgetCep.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Checkpoint/[2-3] Cp3ApiCep/app/src/main/java/br/com/fiap/cp3apicep/IgetCep.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Checkpoint/[2-3] Cp3ApiCep/app/src/main/java/br/com/fiap/cp3apicep/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Checkpoint/[2-3] Cp3ApiCep/app/src/main/java/br/com/fiap/cp3apicep/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Checkpoint/[2-3] Cp3ApiCep/app/src/main/java/br/com/fiap/cp3apicep/model/AdressModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Checkpoint/[2-3] Cp3ApiCep/app/src/main/java/br/com/fiap/cp3apicep/model/AdressModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../z_Docs/Apresentações/1 Semestre/1 - Kotlin.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../../z_Docs/Apresentações/1 Semestre/1 - Kotlin.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../z_Docs/Apresentações/1 Semestre/2 - AndroidStudio.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../../z_Docs/Apresentações/1 Semestre/2 - AndroidStudio.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../z_Docs/Apresentações/1 Semestre/Apresentacao aula 0.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../../z_Docs/Apresentações/1 Semestre/Apresentacao aula 0.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../z_Docs/Exercicios - Avaliações/Checkpoints/Checkpoint Apis MVVM.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../z_Docs/Exercicios - Avaliações/Checkpoints/Checkpoint Retrofit - CEP.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../z_Docs/Exercicios - Avaliações/Checkpoints/Checkpoint Retrofit - CEP.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../z_Docs/Exercicios - Avaliações/Exercicios/Exercício Calculadora.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../../z_Docs/Exercicios - Avaliações/Exercicios/Exercício Calculadora.pptx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[/Users/sidnasciment/.android/avd/Pixel_6_API_32.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="CalculadoraSample" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="CalculadoraSample" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="CalculadoraSample" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="CalculadoraSample" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2MnTAaedCac5U8WLMVbo8ROxvTe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DEBUGGABLE_DEVICE": "Pixel_5_API_31 [emulator-5554]",
+    "DEBUGGABLE_PROCESS": "com.example.calculadorasample",
+    "DEBUGGER_ID": "Auto",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "SHOW_ALL_PROCESSES": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "/Users/sidnasciment/Documents/RW-sid-/base-samples/Exercicios/[1-1] CalculadoraSample ",
+    "memory.settings.postsync.last.time.stamp": "1679708305084"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="CalculadoraSample.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="[1-1] CalculadoraSample " />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="[1-1] CalculadoraSample " />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c88aec5-9c77-4a36-af69-127a049b7438" name="Changes" comment="" />
+      <created>1678402203396</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678402203396</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Android Debugger (pid: 8355, debug port: 64069)">
+        <watch expression="item.toIntOrNull()" language="kotlin" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

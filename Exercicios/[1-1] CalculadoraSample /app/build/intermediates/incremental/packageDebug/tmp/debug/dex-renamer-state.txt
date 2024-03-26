@@ -1,0 +1,10 @@
+#Tue Mar 19 08:04:20 BRT 2024
+base.0=/Users/sidnasciment/Documents/RW-sid-/base-samples/Exercicios/[1-1] CalculadoraSample /app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.1=/Users/sidnasciment/Documents/RW-sid-/base-samples/Exercicios/[1-1] CalculadoraSample /app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.2=/Users/sidnasciment/Documents/RW-sid-/base-samples/Exercicios/[1-1] CalculadoraSample /app/build/intermediates/dex/debug/mergeProjectDexDebug/8/classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=8/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex

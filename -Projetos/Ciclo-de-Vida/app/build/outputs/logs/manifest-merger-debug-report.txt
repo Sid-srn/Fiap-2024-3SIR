@@ -1,0 +1,237 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Ciclo-de-Vida/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Ciclo-de-Vida/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Ciclo-de-Vida/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Ciclo-de-Vida/app/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.core:core-ktx:1.8.0] /Users/sidnasciment/.gradle/caches/transforms-3/058e79e02101d8724212f48cf11f2548/transformed/core-ktx-1.8.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.5.0] /Users/sidnasciment/.gradle/caches/transforms-3/5a5c5e5c7026544de9ccf8875773e4ef/transformed/material-1.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/sidnasciment/.gradle/caches/transforms-3/9ad31c667af3a4d23c0ad53ffe4d0e88/transformed/constraintlayout-2.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/sidnasciment/.gradle/caches/transforms-3/5edeb6b2f97c50671381949df04f034e/transformed/appcompat-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/81cb794477e8186d43ca197869447d56/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/sidnasciment/.gradle/caches/transforms-3/e6f534ac849b830fbe362816f59a9aae/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/sidnasciment/.gradle/caches/transforms-3/90c27ec36faf040363c61d55f07cbebd/transformed/activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/sidnasciment/.gradle/caches/transforms-3/34531d8a139c4639dd3ff8a2c30beb0b/transformed/appcompat-resources-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/bdfe0d3cbd7932ddd071121dbc31b186/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/408e8f145fabf7c32714f26c57f83168/transformed/emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/sidnasciment/.gradle/caches/transforms-3/01a60c1758118a4c4a2750c5eef44e0b/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/sidnasciment/.gradle/caches/transforms-3/d3ad1e935aa2270e6e7ae55cd7752b2a/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/0f5e832b92da87900caaa3efee8dcecc/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/sidnasciment/.gradle/caches/transforms-3/799581e711bcfd2e9584d3ab7daf08f9/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sidnasciment/.gradle/caches/transforms-3/94f6b4c008ef045c4f2e0f86e0699927/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sidnasciment/.gradle/caches/transforms-3/686a06c38898cab4c33f1f40d64b3174/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/226f619b947b8e53de930e0b9ea42bd5/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/f6980ce487910f240a6ae651ca72cacf/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/0350c78cb71081ad1e631d25f3d152cd/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/sidnasciment/.gradle/caches/transforms-3/51030ad6ab13d28be0df59ede82a6e0d/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/sidnasciment/.gradle/caches/transforms-3/cba0fb151d6e0c13415ea357e473a68a/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.8.0] /Users/sidnasciment/.gradle/caches/transforms-3/d9d1afb6ad095e0764ca0e46a5f90d88/transformed/core-1.8.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/7f8f2754b6f74961048ee3e9d4606b0b/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/sidnasciment/.gradle/caches/transforms-3/c53a7094f9b2c822a9bf10f4b48387b5/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/sidnasciment/.gradle/caches/transforms-3/ecaa187737fb1ca9148a76b71cc5c20d/transformed/savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/sidnasciment/.gradle/caches/transforms-3/1527a3c1ef63fda4ff2f15114da69e5c/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/2c1521edf2dcac9fbf1437a2d73e6dba/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sidnasciment/.gradle/caches/transforms-3/735e150b6083f773f323ff3ac5df7af5/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/sidnasciment/.gradle/caches/transforms-3/8c23b2f43d6c58870fdbeb1d7572180c/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/80b21b133bda726275ef43c3e7a3df55/transformed/startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/a408ce5bbc5925fdd944e51a0fd246aa/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/dc5d9695e2500ea8c89c6a466dc98133/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/sidnasciment/.gradle/caches/transforms-3/04f743b67100cefc06f577c94255d5b5/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/sidnasciment/.gradle/caches/transforms-3/ab6b931fb7de0bfdde5362afdbb2092c/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/sidnasciment/.gradle/caches/transforms-3/2657cea58290c98de3b70603e4b8add3/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/ac51231769d68856b80594aced794b1a/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/5b15d47518f2a809ea496f6d700addb1/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/330486b78dc7c88a659f932492389125/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/4b74cb5652a2f2ead9a792f2de7644b6/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/sidnasciment/.gradle/caches/transforms-3/f161d7e86f01e9d1ce5897054ce94678/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Ciclo-de-Vida/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Ciclo-de-Vida/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Ciclo-de-Vida/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		INJECTED from /Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Ciclo-de-Vida/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Ciclo-de-Vida/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Ciclo-de-Vida/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Ciclo-de-Vida/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Ciclo-de-Vida/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Ciclo-de-Vida/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Ciclo-de-Vida/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Ciclo-de-Vida/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Ciclo-de-Vida/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Ciclo-de-Vida/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Ciclo-de-Vida/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Ciclo-de-Vida/app/src/main/AndroidManifest.xml:5:5-24:19
+MERGED from [com.google.android.material:material:1.5.0] /Users/sidnasciment/.gradle/caches/transforms-3/5a5c5e5c7026544de9ccf8875773e4ef/transformed/material-1.5.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.5.0] /Users/sidnasciment/.gradle/caches/transforms-3/5a5c5e5c7026544de9ccf8875773e4ef/transformed/material-1.5.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/sidnasciment/.gradle/caches/transforms-3/9ad31c667af3a4d23c0ad53ffe4d0e88/transformed/constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/sidnasciment/.gradle/caches/transforms-3/9ad31c667af3a4d23c0ad53ffe4d0e88/transformed/constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/408e8f145fabf7c32714f26c57f83168/transformed/emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/408e8f145fabf7c32714f26c57f83168/transformed/emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.8.0] /Users/sidnasciment/.gradle/caches/transforms-3/d9d1afb6ad095e0764ca0e46a5f90d88/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] /Users/sidnasciment/.gradle/caches/transforms-3/d9d1afb6ad095e0764ca0e46a5f90d88/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sidnasciment/.gradle/caches/transforms-3/735e150b6083f773f323ff3ac5df7af5/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sidnasciment/.gradle/caches/transforms-3/735e150b6083f773f323ff3ac5df7af5/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/sidnasciment/.gradle/caches/transforms-3/8c23b2f43d6c58870fdbeb1d7572180c/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/sidnasciment/.gradle/caches/transforms-3/8c23b2f43d6c58870fdbeb1d7572180c/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/80b21b133bda726275ef43c3e7a3df55/transformed/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/80b21b133bda726275ef43c3e7a3df55/transformed/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] /Users/sidnasciment/.gradle/caches/transforms-3/d9d1afb6ad095e0764ca0e46a5f90d88/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Ciclo-de-Vida/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Ciclo-de-Vida/app/src/main/AndroidManifest.xml:10:9-41
+	android:fullBackupContent
+		ADDED from /Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Ciclo-de-Vida/app/src/main/AndroidManifest.xml:8:9-54
+	android:roundIcon
+		ADDED from /Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Ciclo-de-Vida/app/src/main/AndroidManifest.xml:11:9-54
+	tools:targetApi
+		ADDED from /Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Ciclo-de-Vida/app/src/main/AndroidManifest.xml:14:9-29
+	android:icon
+		ADDED from /Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Ciclo-de-Vida/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Ciclo-de-Vida/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Ciclo-de-Vida/app/src/main/AndroidManifest.xml:13:9-49
+	android:dataExtractionRules
+		ADDED from /Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Ciclo-de-Vida/app/src/main/AndroidManifest.xml:7:9-65
+activity#com.example.ciclodevida.MainActivity
+ADDED from /Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Ciclo-de-Vida/app/src/main/AndroidManifest.xml:15:9-23:20
+	android:exported
+		ADDED from /Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Ciclo-de-Vida/app/src/main/AndroidManifest.xml:17:13-36
+	android:name
+		ADDED from /Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Ciclo-de-Vida/app/src/main/AndroidManifest.xml:16:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Ciclo-de-Vida/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Ciclo-de-Vida/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Ciclo-de-Vida/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Ciclo-de-Vida/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Ciclo-de-Vida/app/src/main/AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from /Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Ciclo-de-Vida/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Ciclo-de-Vida/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Ciclo-de-Vida/app/src/main/AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.8.0] /Users/sidnasciment/.gradle/caches/transforms-3/058e79e02101d8724212f48cf11f2548/transformed/core-ktx-1.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.8.0] /Users/sidnasciment/.gradle/caches/transforms-3/058e79e02101d8724212f48cf11f2548/transformed/core-ktx-1.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.5.0] /Users/sidnasciment/.gradle/caches/transforms-3/5a5c5e5c7026544de9ccf8875773e4ef/transformed/material-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.5.0] /Users/sidnasciment/.gradle/caches/transforms-3/5a5c5e5c7026544de9ccf8875773e4ef/transformed/material-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/sidnasciment/.gradle/caches/transforms-3/9ad31c667af3a4d23c0ad53ffe4d0e88/transformed/constraintlayout-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/sidnasciment/.gradle/caches/transforms-3/9ad31c667af3a4d23c0ad53ffe4d0e88/transformed/constraintlayout-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/sidnasciment/.gradle/caches/transforms-3/5edeb6b2f97c50671381949df04f034e/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/sidnasciment/.gradle/caches/transforms-3/5edeb6b2f97c50671381949df04f034e/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/81cb794477e8186d43ca197869447d56/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/81cb794477e8186d43ca197869447d56/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/sidnasciment/.gradle/caches/transforms-3/e6f534ac849b830fbe362816f59a9aae/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/sidnasciment/.gradle/caches/transforms-3/e6f534ac849b830fbe362816f59a9aae/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/sidnasciment/.gradle/caches/transforms-3/90c27ec36faf040363c61d55f07cbebd/transformed/activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/sidnasciment/.gradle/caches/transforms-3/90c27ec36faf040363c61d55f07cbebd/transformed/activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/sidnasciment/.gradle/caches/transforms-3/34531d8a139c4639dd3ff8a2c30beb0b/transformed/appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/sidnasciment/.gradle/caches/transforms-3/34531d8a139c4639dd3ff8a2c30beb0b/transformed/appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/bdfe0d3cbd7932ddd071121dbc31b186/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/bdfe0d3cbd7932ddd071121dbc31b186/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/408e8f145fabf7c32714f26c57f83168/transformed/emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/408e8f145fabf7c32714f26c57f83168/transformed/emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/sidnasciment/.gradle/caches/transforms-3/01a60c1758118a4c4a2750c5eef44e0b/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/sidnasciment/.gradle/caches/transforms-3/01a60c1758118a4c4a2750c5eef44e0b/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/sidnasciment/.gradle/caches/transforms-3/d3ad1e935aa2270e6e7ae55cd7752b2a/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/sidnasciment/.gradle/caches/transforms-3/d3ad1e935aa2270e6e7ae55cd7752b2a/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/0f5e832b92da87900caaa3efee8dcecc/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/0f5e832b92da87900caaa3efee8dcecc/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/sidnasciment/.gradle/caches/transforms-3/799581e711bcfd2e9584d3ab7daf08f9/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/sidnasciment/.gradle/caches/transforms-3/799581e711bcfd2e9584d3ab7daf08f9/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sidnasciment/.gradle/caches/transforms-3/94f6b4c008ef045c4f2e0f86e0699927/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sidnasciment/.gradle/caches/transforms-3/94f6b4c008ef045c4f2e0f86e0699927/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sidnasciment/.gradle/caches/transforms-3/686a06c38898cab4c33f1f40d64b3174/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sidnasciment/.gradle/caches/transforms-3/686a06c38898cab4c33f1f40d64b3174/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/226f619b947b8e53de930e0b9ea42bd5/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/226f619b947b8e53de930e0b9ea42bd5/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/f6980ce487910f240a6ae651ca72cacf/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/f6980ce487910f240a6ae651ca72cacf/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/0350c78cb71081ad1e631d25f3d152cd/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/0350c78cb71081ad1e631d25f3d152cd/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/sidnasciment/.gradle/caches/transforms-3/51030ad6ab13d28be0df59ede82a6e0d/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/sidnasciment/.gradle/caches/transforms-3/51030ad6ab13d28be0df59ede82a6e0d/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/sidnasciment/.gradle/caches/transforms-3/cba0fb151d6e0c13415ea357e473a68a/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/sidnasciment/.gradle/caches/transforms-3/cba0fb151d6e0c13415ea357e473a68a/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /Users/sidnasciment/.gradle/caches/transforms-3/d9d1afb6ad095e0764ca0e46a5f90d88/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /Users/sidnasciment/.gradle/caches/transforms-3/d9d1afb6ad095e0764ca0e46a5f90d88/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/7f8f2754b6f74961048ee3e9d4606b0b/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/7f8f2754b6f74961048ee3e9d4606b0b/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/sidnasciment/.gradle/caches/transforms-3/c53a7094f9b2c822a9bf10f4b48387b5/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/sidnasciment/.gradle/caches/transforms-3/c53a7094f9b2c822a9bf10f4b48387b5/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/sidnasciment/.gradle/caches/transforms-3/ecaa187737fb1ca9148a76b71cc5c20d/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/sidnasciment/.gradle/caches/transforms-3/ecaa187737fb1ca9148a76b71cc5c20d/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/sidnasciment/.gradle/caches/transforms-3/1527a3c1ef63fda4ff2f15114da69e5c/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/sidnasciment/.gradle/caches/transforms-3/1527a3c1ef63fda4ff2f15114da69e5c/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/2c1521edf2dcac9fbf1437a2d73e6dba/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/2c1521edf2dcac9fbf1437a2d73e6dba/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sidnasciment/.gradle/caches/transforms-3/735e150b6083f773f323ff3ac5df7af5/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sidnasciment/.gradle/caches/transforms-3/735e150b6083f773f323ff3ac5df7af5/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/sidnasciment/.gradle/caches/transforms-3/8c23b2f43d6c58870fdbeb1d7572180c/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/sidnasciment/.gradle/caches/transforms-3/8c23b2f43d6c58870fdbeb1d7572180c/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/80b21b133bda726275ef43c3e7a3df55/transformed/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/80b21b133bda726275ef43c3e7a3df55/transformed/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/a408ce5bbc5925fdd944e51a0fd246aa/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/a408ce5bbc5925fdd944e51a0fd246aa/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/dc5d9695e2500ea8c89c6a466dc98133/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/dc5d9695e2500ea8c89c6a466dc98133/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/sidnasciment/.gradle/caches/transforms-3/04f743b67100cefc06f577c94255d5b5/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/sidnasciment/.gradle/caches/transforms-3/04f743b67100cefc06f577c94255d5b5/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/sidnasciment/.gradle/caches/transforms-3/ab6b931fb7de0bfdde5362afdbb2092c/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/sidnasciment/.gradle/caches/transforms-3/ab6b931fb7de0bfdde5362afdbb2092c/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/sidnasciment/.gradle/caches/transforms-3/2657cea58290c98de3b70603e4b8add3/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/sidnasciment/.gradle/caches/transforms-3/2657cea58290c98de3b70603e4b8add3/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/ac51231769d68856b80594aced794b1a/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/ac51231769d68856b80594aced794b1a/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/5b15d47518f2a809ea496f6d700addb1/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/5b15d47518f2a809ea496f6d700addb1/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/330486b78dc7c88a659f932492389125/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/330486b78dc7c88a659f932492389125/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/4b74cb5652a2f2ead9a792f2de7644b6/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/4b74cb5652a2f2ead9a792f2de7644b6/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/sidnasciment/.gradle/caches/transforms-3/f161d7e86f01e9d1ce5897054ce94678/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/sidnasciment/.gradle/caches/transforms-3/f161d7e86f01e9d1ce5897054ce94678/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Ciclo-de-Vida/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Ciclo-de-Vida/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Ciclo-de-Vida/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Ciclo-de-Vida/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Ciclo-de-Vida/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Ciclo-de-Vida/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Ciclo-de-Vida/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Ciclo-de-Vida/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/408e8f145fabf7c32714f26c57f83168/transformed/emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/sidnasciment/.gradle/caches/transforms-3/8c23b2f43d6c58870fdbeb1d7572180c/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/sidnasciment/.gradle/caches/transforms-3/8c23b2f43d6c58870fdbeb1d7572180c/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/80b21b133bda726275ef43c3e7a3df55/transformed/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/80b21b133bda726275ef43c3e7a3df55/transformed/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/408e8f145fabf7c32714f26c57f83168/transformed/emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/408e8f145fabf7c32714f26c57f83168/transformed/emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/408e8f145fabf7c32714f26c57f83168/transformed/emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/408e8f145fabf7c32714f26c57f83168/transformed/emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/408e8f145fabf7c32714f26c57f83168/transformed/emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/408e8f145fabf7c32714f26c57f83168/transformed/emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/408e8f145fabf7c32714f26c57f83168/transformed/emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/sidnasciment/.gradle/caches/transforms-3/8c23b2f43d6c58870fdbeb1d7572180c/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/sidnasciment/.gradle/caches/transforms-3/8c23b2f43d6c58870fdbeb1d7572180c/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/sidnasciment/.gradle/caches/transforms-3/8c23b2f43d6c58870fdbeb1d7572180c/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78

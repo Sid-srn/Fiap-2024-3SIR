@@ -1,0 +1,77 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.viewslayouts"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->/Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Views-Layouts/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->/Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Views-Layouts/app/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Views-Layouts/app/src/main/AndroidManifest.xml:5:5-24:19
+12        android:allowBackup="true"
+12-->/Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Views-Layouts/app/src/main/AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.8.0] /Users/sidnasciment/.gradle/caches/transforms-3/d9d1afb6ad095e0764ca0e46a5f90d88/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+14        android:dataExtractionRules="@xml/data_extraction_rules"
+14-->/Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Views-Layouts/app/src/main/AndroidManifest.xml:7:9-65
+15        android:debuggable="true"
+16        android:extractNativeLibs="false"
+17        android:fullBackupContent="@xml/backup_rules"
+17-->/Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Views-Layouts/app/src/main/AndroidManifest.xml:8:9-54
+18        android:icon="@mipmap/ic_launcher"
+18-->/Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Views-Layouts/app/src/main/AndroidManifest.xml:9:9-43
+19        android:label="@string/app_name"
+19-->/Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Views-Layouts/app/src/main/AndroidManifest.xml:10:9-41
+20        android:roundIcon="@mipmap/ic_launcher_round"
+20-->/Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Views-Layouts/app/src/main/AndroidManifest.xml:11:9-54
+21        android:supportsRtl="true"
+21-->/Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Views-Layouts/app/src/main/AndroidManifest.xml:12:9-35
+22        android:testOnly="true"
+23        android:theme="@style/Theme.ViewsLayouts" >
+23-->/Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Views-Layouts/app/src/main/AndroidManifest.xml:13:9-50
+24        <activity
+24-->/Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Views-Layouts/app/src/main/AndroidManifest.xml:15:9-23:20
+25            android:name="com.example.viewslayouts.MainActivity"
+25-->/Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Views-Layouts/app/src/main/AndroidManifest.xml:16:13-41
+26            android:exported="true" >
+26-->/Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Views-Layouts/app/src/main/AndroidManifest.xml:17:13-36
+27            <intent-filter>
+27-->/Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Views-Layouts/app/src/main/AndroidManifest.xml:18:13-22:29
+28                <action android:name="android.intent.action.MAIN" />
+28-->/Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Views-Layouts/app/src/main/AndroidManifest.xml:19:17-69
+28-->/Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Views-Layouts/app/src/main/AndroidManifest.xml:19:25-66
+29
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->/Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Views-Layouts/app/src/main/AndroidManifest.xml:21:17-77
+30-->/Users/sidnasciment/Documents/RW-sid-/Fiap-2024-3SIR/-Projetos/Views-Layouts/app/src/main/AndroidManifest.xml:21:27-74
+31            </intent-filter>
+32        </activity>
+33
+34        <provider
+34-->[androidx.emoji2:emoji2:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/408e8f145fabf7c32714f26c57f83168/transformed/emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+35            android:name="androidx.startup.InitializationProvider"
+35-->[androidx.emoji2:emoji2:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/408e8f145fabf7c32714f26c57f83168/transformed/emoji2-1.0.0/AndroidManifest.xml:27:13-67
+36            android:authorities="com.example.viewslayouts.androidx-startup"
+36-->[androidx.emoji2:emoji2:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/408e8f145fabf7c32714f26c57f83168/transformed/emoji2-1.0.0/AndroidManifest.xml:28:13-68
+37            android:exported="false" >
+37-->[androidx.emoji2:emoji2:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/408e8f145fabf7c32714f26c57f83168/transformed/emoji2-1.0.0/AndroidManifest.xml:29:13-37
+38            <meta-data
+38-->[androidx.emoji2:emoji2:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/408e8f145fabf7c32714f26c57f83168/transformed/emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+39                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+39-->[androidx.emoji2:emoji2:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/408e8f145fabf7c32714f26c57f83168/transformed/emoji2-1.0.0/AndroidManifest.xml:32:17-75
+40                android:value="androidx.startup" />
+40-->[androidx.emoji2:emoji2:1.0.0] /Users/sidnasciment/.gradle/caches/transforms-3/408e8f145fabf7c32714f26c57f83168/transformed/emoji2-1.0.0/AndroidManifest.xml:33:17-49
+41            <meta-data
+41-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/sidnasciment/.gradle/caches/transforms-3/8c23b2f43d6c58870fdbeb1d7572180c/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+42                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+42-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/sidnasciment/.gradle/caches/transforms-3/8c23b2f43d6c58870fdbeb1d7572180c/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+43                android:value="androidx.startup" />
+43-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/sidnasciment/.gradle/caches/transforms-3/8c23b2f43d6c58870fdbeb1d7572180c/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+44        </provider>
+45    </application>
+46
+47</manifest>
